@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import json
+import requests
 
 def home():
     # Add a banner image
