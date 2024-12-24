@@ -1,4 +1,6 @@
 import streamlit as st
+from home import home
+
 
 def main():
    
