@@ -8,8 +8,9 @@ def home():
     
     try:
         # Load JSON data
-        with open('data.json') as f:
-            data = json.load(f)
+        url = 'https://raw.githubusercontent.com/kanavu5/mkanavu01/refs/heads/main/university.json'
+        response = requests.get(url)
+        data = response.json()
         
         # Convert JSON data to DataFrame
         df = pd.DataFrame(data)
