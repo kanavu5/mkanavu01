@@ -11,7 +11,7 @@ def main():
     if page == "Home":
         home_page()
     elif page == "Collage":
-        collage_page()
+        home_page()
     
 
    
