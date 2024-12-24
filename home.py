@@ -9,7 +9,7 @@ def home():
     
     try:
         # Load JSON data
-        url = 'https://raw.githubusercontent.com/kanavu5/mkanavu01/refs/heads/main/university.json'
+        url = 'https://raw.githubusercontent.com/kanavu5/mkanavu01/refs/heads/main/data.json'
         response = requests.get(url)
         data = response.json()
         st.write("This is a simple Streamlit app showing Hello, World!")
