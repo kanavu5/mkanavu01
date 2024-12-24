@@ -8,7 +8,7 @@ def home():
     
     try:
         # Load JSON data
-        with open('user.json') as f:
+        with open('data.json') as f:
             data = json.load(f)
         
         # Convert JSON data to DataFrame
