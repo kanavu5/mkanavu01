@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import json
 
-def home_page():
+def home():
     # Add a banner image
     st.title("Kanavu Meipada Vendum")
     
