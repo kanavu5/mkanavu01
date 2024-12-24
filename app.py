@@ -9,9 +9,9 @@ def main():
     
 
     if page == "Home":
-        home_page()
+        home()
     elif page == "Collage":
-        home_page()
+        home()
     
 
    
