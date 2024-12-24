@@ -10,11 +10,9 @@ def home():
     try:
         # Load JSON data
         url = st.secrets["data"]["data_url"]
-        
         response = requests.get(url)
         data = response.json()
-        st.write("This is a simple Streamlit app showing Hello, World!")
-        
+  
         # Convert JSON data to DataFrame
         df = pd.DataFrame(data)
         
@@ -24,7 +22,7 @@ def home():
         # Search and sort functionality in the same row
         col1, col2 = st.columns(2)
         with col1:
-            search_query = st.text_input("Search by country name")
+            search_query = st.text_input("Search")
         with col2:
             sort_by = st.selectbox("Sort by", options=df.columns)
             sort_order = st.radio("Sort order", options=["Ascending", "Descending"], horizontal=True)
