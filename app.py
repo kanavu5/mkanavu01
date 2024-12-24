@@ -6,7 +6,12 @@ def main():
     # Add a sidebar for navigation
     page = st.sidebar.selectbox("Select a page", ["Home", "Collage"])
   
+    
 
+    if page == "Home":
+        home_page()
+    elif page == "Collage":
+        collage_page()
     
 
    
