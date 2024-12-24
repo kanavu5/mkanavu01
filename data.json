@@ -1,0 +1,27 @@
+[
+    {
+        "university": "Harvard University",
+        "country": "United States",
+        "city": "Cambridge",
+        "website": "https://www.harvard.edu"
+    },
+    {
+        "university": "Stanford University",
+        "country": "United States",
+        "city": "Stanford",
+        "website": "https://www.stanford.edu"
+    },
+    {
+        "university": "University of Oxford",
+        "country": "United Kingdom",
+        "city": "Oxford",
+        "website": "https://www.ox.ac.uk"
+    },
+    {
+        "university": "California Institute of Technology (Caltech)",
+        "country": "United States",
+        "city": "Pasadena",
+        "website": "https://www.caltech.edu"
+    }
+
+]
