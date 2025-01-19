@@ -1,0 +1,332 @@
+[
+  {
+    "Collage Name": "Bangalore  Medical  Collage and Research Institute",
+    "District": "Bangalore",
+    "Type": "Government",
+    "No Of Seats": 250
+  },
+  {
+    "Collage Name": "Belgavi Institute  of  Medical Sciences",
+    "District": "Belgavi",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Bidar Institute  of  Medical Sciences",
+    "District": "Bidar",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Chamrajanagar Institute of Medical Sciences",
+    "District": "Chamrajnagar",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Chikkaballapura Institute of Medical Sciences",
+    "District": "Chikkaballapura",
+    "Type": "Government",
+    "No Of Seats": 100
+  },
+  {
+    "Collage Name": "Chitradurga Institute of Medical Sciences",
+    "District": "Chitradurga",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Employees State Insurance  Corporation Medical  Collage",
+    "District": "Bangalore",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Employees State Insurance  Corporation Medical  Collage",
+    "District": "Gulbarga",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Gadag Institute of Medical Sciences",
+    "District": "Gadag",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Gulbarga Institute of Medical Sciences",
+    "District": "Gulbarga",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Hassan Institute of Medical Sciences",
+    "District": "Hassan",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Haveri  Institute of Medical Sciences",
+    "District": "Haveri",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Karnataka  Institute of Medical Sciences",
+    "District": "Hubbali",
+    "Type": "Government",
+    "No Of Seats": 200
+  },
+  {
+    "Collage Name": "Karwar Institute of Medical Sciences",
+    "District": "Karrwar",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Kodagu Institute of Medical Sciences",
+    "District": "Kodogu",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Koppal Institute of Medical Sciences",
+    "District": "Koppal",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Mandya  Institute of Medical Sciences",
+    "District": "Mandya",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Mysore Medical Collage and Research  Institute",
+    "District": "Mysore",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Raichur Institute of Medical Sciences",
+    "District": "Raichur",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Shimoga Institute of Medical Sciences",
+    "District": "Shimoga",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Shri Atal Bihari Vajpayee Medical Collage  and Research  Institute",
+    "District": "Bangalore",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Vijaynagar  Institute of Medical Sciences",
+    "District": "Bellari",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Yedgiri Institute of Medical Sciences",
+    "District": "Yedgiri",
+    "Type": "Government",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "AJ  Institute of  Medical Sciences  and Research Centre",
+    "District": "Mangalore",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Adichunchanagiri Institute of  Medical  Sciences",
+    "District": "Mandya",
+    "Type": "Private",
+    "No Of Seats": 250
+  },
+  {
+    "Collage Name": "Akashn Institute of  Medical  Sciences and Research Centre",
+    "District": "Bangalore",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Al-Ameen  Medical Collage",
+    "District": "Bijapur",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Basaveswara Medical College and  Hospital",
+    "District": "Chitradurga",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Balagangadharanatha Swamiji Global Institute of  Medical Sciences",
+    "District": "Bangalore",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Dr  BR Ambedkar Medical College",
+    "District": "Bangalore",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Dr Chandramma Dayananda Sagar Institute ofMedical Education and Research",
+    "District": "Bangalore",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "East Point  College of Medical Sciences and Research Centre",
+    "District": "Bangalore",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Father Mullers Medical College",
+    "District": "Mangalore",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Jagadguru  Jayadeva  Murugarajendra Medical  College",
+    "District": "Davangere",
+    "Type": "Private",
+    "No Of Seats": 245
+  },
+  {
+    "Collage Name": "KVG Medical  College",
+    "District": "Sullia",
+    "Type": "Private",
+    "No Of Seats": 100
+  },
+  {
+    "Collage Name": "Kanachur  Innstitute   of  Medical  Sciences",
+    "District": "Mangalore",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Kempegowda Institute of  Medical Sciences",
+    "District": "Bangalore",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Khaja Bandanawaz University Fculty  of  Mmedical Sciences",
+    "District": "Gulbarga",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "MS  Ramaiah  Medical College",
+    "District": "Bangalore",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Mahadevappa Rampure Medical Colleege",
+    "District": "Gulbarga",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Dr M V  Jayaraman Medical College  and Research Hospital",
+    "District": "Bangalore",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Navodaya  Medical Collage",
+    "District": "Raichur",
+    "Type": "Private",
+    "No Of Seats": 200
+  },
+  {
+    "Collage Name": "Shymanuru  Shivashandrappa Institute of Medical  Sciences and  Research Centre",
+    "District": "Davangere",
+    "Type": "Private",
+    "No Of Seats": 200
+  },
+  {
+    "Collage Name": "S  Nijalingappa Medical  College and HSK Hospital  and Research  Centre",
+    "District": "Bagalkot",
+    "Type": "Private",
+    "No Of Seats": 250
+  },
+  {
+    "Collage Name": "Sapthagiri Institute of Mmedical Sciences and  Research Centre",
+    "District": "Bangalore",
+    "Type": "Private",
+    "No Of Seats": 250
+  },
+  {
+    "Collage Name": "Shri  Dharmasthala   Manjunatheshwara College oof Medical  Sciences  and  Hospital",
+    "District": "Dharwad",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Shridevi Institute of  Medical Sciences  and Research  Hospital",
+    "District": "Tumkur",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Siddaganga  Medical College  and Research Institute",
+    "District": "Tamakuru",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Sri Chamundeshwari Medical College Hospital and Research  Institute and  Research Institute",
+    "District": "Channapatna",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Sri Madhusudan Sai Institute of Mmedical Sciences  and Research",
+    "District": "Chikkaballapura",
+    "Type": "Private",
+    "No Of Seats": 50
+  },
+  {
+    "Collage Name": "Srinivas Institute of  Mmedical Research  Centre",
+    "District": "Mangalore",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "St John Medical Collge",
+    "District": "Bangalore",
+    "Type": "Private",
+    "No Of Seats": 150
+  },
+  {
+    "Collage Name": "Subbaiah Institute of  Mmedical  Sciences",
+    "District": "Shimoga",
+    "Type": "Private",
+    "No Of Seats": 200
+  },
+  {
+    "Collage Name": "The Oxford medical  College",
+    "District": "Hospital and  Research Centre",
+    "Type": "Bangalore",
+    "No Of Seats": "Private"
+  },
+  {
+    "Collage Name": "Vydehi Institute of Medical  Sciences and  Research Centre",
+    "District": "Bangalore",
+    "Type": "Private",
+    "No Of Seats": 250
+  }
+]
