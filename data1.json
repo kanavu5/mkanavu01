@@ -318,10 +318,10 @@
     "No Of Seats": 200
   },
   {
-    "Collage Name": "The Oxford medical  College",
-    "District": "Hospital and  Research Centre",
-    "Type": "Bangalore",
-    "No Of Seats": "Private"
+    "Collage Name": "The Oxford medical  College Hospital and  Research Centre",
+    "District": "Bangalore",
+    "Type": "Private",
+    "No Of Seats": 150
   },
   {
     "Collage Name": "Vydehi Institute of Medical  Sciences and  Research Centre",
