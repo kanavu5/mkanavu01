@@ -31,9 +31,10 @@ def cutoff():
 
 
         """Decrypt a file."""
-        key = open("secret.key", "rb").read()
+        #key = open("secret.key", "rb").read()
+        sckey = st.secrets["data"]["sc_key"]
         #print(key)
-        fernet = Fernet(key)
+        fernet = Fernet(sckey)
         
         #encrypted_data = response.content
         #print(encrypted_data)
